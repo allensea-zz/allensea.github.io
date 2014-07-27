@@ -1,0 +1,41 @@
+<style>
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.outer {
+	background-image: url(../_images/frame.png), url(../_images/paper.jpg);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: 1200px 900px;
+	width: 1200px;
+	height: 900px;
+	margin: 0 auto;
+}
+
+.inner {
+	text-align: center;
+	padding-top: 200px;
+	padding-bottom: 150px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.p1 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.p2 {
+	font-family: 'Courgette', cursive;
+	font-size: 18px;
+}
+
+.p3 {
+	font-family: 'Courgette', cursive;
+	font-size: 12px;
+}
+
+</style>
